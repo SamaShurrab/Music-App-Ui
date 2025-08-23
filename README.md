@@ -28,3 +28,4 @@ Here is a preview of the app interface:
   <img src="assets/images/page1.png" width="45%" />
   <img src="assets/images/page2.png" width="45%" />
 </p>
+

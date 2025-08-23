@@ -25,7 +25,6 @@ The purpose of this project is to practice and understand the usage of **basic F
 Here is a preview of the app interface:  
 
 <p float="left">
-  <img src="assets/images/page1.png" width="45%" />
-  <img src="assets/images/page2.png" width="45%" />
+  <img src="https://github.com/SamaShurrab/Music-App-Ui/blob/main/images/page1.png?raw=true" width="45%" />
+  <img src="https://github.com/SamaShurrab/Music-App-Ui/blob/main/images/page2.png?raw=true" width="45%" />
 </p>
-

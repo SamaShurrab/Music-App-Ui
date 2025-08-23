@@ -1,17 +1,30 @@
-# music_app_ui
+# 📌 Project Description  
+A simple Flutter training application designed to demonstrate some of the most commonly used **UI Widgets**.  
 
-A new Flutter project.
+The app includes practical examples of:  
 
-## Getting Started
+- **Row** ➝ arrange items horizontally  
+- **Column** ➝ arrange items vertically  
+- **Text** ➝ display text  
+- **Image** ➝ display images  
+- **Icon** ➝ add icons  
+- **SizedBox** ➝ create spacing or define fixed sizes  
+- **Container** ➝ customize layout, padding, borders, and colors  
+- **Slider** ➝ add adjustable sliders  
+- **SliderTheme** ➝ customize the style and look of sliders  
+- **ShaderMask** ➝ apply gradients and effects on widgets  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# 📌 Project Goal  
+The purpose of this project is to practice and understand the usage of **basic Flutter Widgets** while building a simple UI as part of **Task 3**.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+# 📌 App Screenshots 📷  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![screenShout](images/screens.png)
+Here is a preview of the app interface:  
+
+<p float="left">
+  <img src="assets/images/page1.png" width="45%" />
+  <img src="assets/images/page2.png" width="45%" />
+</p>

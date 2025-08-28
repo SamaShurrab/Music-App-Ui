@@ -7,7 +7,7 @@ void main() {
     MaterialApp(
       home: MusicListPage(),
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(scaffoldBackgroundColor: AppColors.primaryColor),
+      theme: ThemeData(scaffoldBackgroundColor: AppColors.primaryColor,fontFamily: "Inter",),
     ),
   );
 }

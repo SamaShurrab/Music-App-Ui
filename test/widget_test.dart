@@ -8,12 +8,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:music_app_ui/music_app_ui.dart';
+import 'package:music_app_ui/pages/music_list_page.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(const MusicAppUi());
+    await tester.pumpWidget(const MusicListPage());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);
